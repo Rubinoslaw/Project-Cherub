@@ -19,6 +19,6 @@ Virtual machine, but you can also run it on a physical computer. 2 CPU cores bec
 
 More information:
 -
-https://projectcherub.github.io/
+https://rubinoslaw.github.io/projectcherub.github.io/
 
 Phillipians 4:13
