@@ -23,5 +23,6 @@ QEMU installation tutorial soon. Now, you're able to run it inside Oracle Virtua
 More information:
 -
 https://rubinoslaw.github.io/projectcherub.github.io/
+https://www.youtube.com/watch?v=NNq_4vG5Src
 
 Phillipians 4:13
