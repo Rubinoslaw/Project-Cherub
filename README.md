@@ -17,6 +17,9 @@ Recommended
 -
 Virtual machine, but you can also run it on a physical computer. 2 CPU cores because of 120 FPS support. However, the system can also run on one core.
 
+QEMU installation tutorial soon. Now, you're able to run it inside Oracle VirtualBox or VMware Workstation.
+-
+
 More information:
 -
 https://rubinoslaw.github.io/projectcherub.github.io/
