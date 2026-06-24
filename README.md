@@ -1,5 +1,8 @@
 # Project Cherub
 
+PROJECT CHERUB is a codename of a distribution of TempleOS originally created by Terrence "Terry" Andrew Davis.
+-
+
 Minimal hardware requirements (at the moment, it may change in the future):
 -
 Its for bare metals only. You can emulate everything on virtual machines:
